@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* css document setti belkacem */
+
+body {
+    background: rgb(236, 173, 183);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.orange {
+    background: orange;
+}
+
+.grisclair {
+    background: lightgray;
+}
+
+.bleuclair {
+    background: lightblue;
+}
+
+.vertclair {
+    background: lightgreen;
+}
+
+.olive {
+    background: olive;
+}
+
+.blanc {
+    background: white;
+}
+
+.bg-tomato {
+    background: tomato;
+}
+
+/* pour que le conteneur ait la place */
+.marge-haute {
+    margin-top: 80px;
+}
+
+nav a {
+    color: black;
+}
